@@ -80,8 +80,8 @@ The dashboard is designed to help **college management, placement officers, and 
 ## 📂 Files in this Repository  
 - [`Placement_Dashboard.pbix`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Campus_Placements.xlsx) → Excel dataset file
 - [`Placement_Dashboard.pbix`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Campus_Placement_Report.pbix) → Power BI dashboard file
-- [`Placement Dashboard Page 1.png`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Placement_Dashboard_Page1.png) → Dashboard preview (Page 1)  
-- [`Placement Dashboard Page 2.png`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Placement_Dashboard_Page2.png) → Dashboard preview (Page 2)  
+- [`Placement_Dashboard_Page_1.png`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Placement_Dashboard_Page1.png) → Dashboard preview (Page 1)  
+- [`Placement_Dashboard_Page_2.png`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Placement_Dashboard_Page2.png) → Dashboard preview (Page 2)  
 - [`README.md`](./README.md) → Project description, KPIs, and insights
   
 
