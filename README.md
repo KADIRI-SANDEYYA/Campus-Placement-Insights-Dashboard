@@ -36,7 +36,10 @@ It provides a comprehensive view of how students perform across different domain
 ---
 
 ## 📷 Dashboard Preview
-*(Add exported images here for better presentation, e.g. `Campus_Placement_Insights.png`)*
+
+![Campus Placement Dashboard Page 1](images/Campus_Placement_Insights.png)
+![Campus Placement Dashboard Page 2](images/Campus_Placement_Insights.png)
+
 
 ---
 
@@ -47,16 +50,19 @@ It provides a comprehensive view of how students perform across different domain
 ---
 
 ## 🚀 Insights
-- Placement success rate is **XX%** (replace with your data).
-- **Company A, Company B, Company C** were the top recruiters.
-- Students with **higher academic scores** and **specific skill sets** had better chances of placement.
-- Certain departments showed **above-average placement rates** compared to others.
+- **Overall Placement Success**: 80.36% of eligible students successfully secured placements.
+- **Leading Recruiters**: Amadeus, Enlilgence, Kushagramati Analytics, Daimler, and Verizon actively recruited top 5 talent.
+- **Academic & Skill Correlation**: Students with strong academic performance and specialized skill sets achieved higher placement rates.
+- **Departmental Performance**: Certain departments consistently outperformed others, exhibiting above-average placement outcomes.
+- **Compensation Highlights**:
+  - **Average Salary:** ₹726000
+  - **Highest Salary:** ₹2480000
 
 ---
 
 ## 📂 Files in this Repository
-- `Campus_Placement_Report.pbix` → Power BI dashboard file
+- [`Campus_Placements.xlsx`](./Campus_Placements.xlsx) → Excel dataset file  
+- [`Campus_Placement_Report.pbix`](./Campus_Placement_Report.pbix) → Power BI dashboard file
 - `README.md` → Project description and details
-- *(Optional: Add dataset if allowed, e.g. `placement_data.csv`)*
 
 ---
