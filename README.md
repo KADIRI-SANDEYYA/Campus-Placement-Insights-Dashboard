@@ -104,7 +104,7 @@ The dashboard is designed to help **college management, placement officers, and 
 
 ## 👤 Author  
 **Kadiri Sandeyya**  
-📧 Email: kadirisamson81@gmail.com
-💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/kadirisandeyya)  
+- 📧 **Email**: kadirisamson81@gmail.com
+- 💼 **LinkedIn**: [My Linkedin Profile](https://www.linkedin.com/in/kadirisandeyya)  
 
 
