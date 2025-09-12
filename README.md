@@ -37,8 +37,8 @@ It provides a comprehensive view of how students perform across different domain
 
 ## 📷 Dashboard Preview
 
-![Campus Placement Dashboard Page 1](images/Campus_Placement_Insights.png)
-![Campus Placement Dashboard Page 2](images/Campus_Placement_Insights.png)
+![Campus Placement Dashboard Page 1](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Placement_Dashboard_Page1.png)
+![Campus Placement Dashboard Page 2](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Placement_Dashboard_Page2.png)
 
 
 ---
@@ -61,8 +61,8 @@ It provides a comprehensive view of how students perform across different domain
 ---
 
 ## 📂 Files in this Repository
-- [`Campus_Placements.xlsx`](./Campus_Placements.xlsx) → Excel dataset file  
-- [`Campus_Placement_Report.pbix`](./Campus_Placement_Report.pbix) → Power BI dashboard file
+- [`Campus_Placements.xlsx`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Campus_Placements.xlsx) → Excel dataset file  
+- [`Campus_Placement_Report.pbix`](https://github.com/KADIRI-SANDEYYA/-Campus-Placement-Insights-Dashboard/blob/main/Campus_Placement_Report.pbix) → Power BI dashboard file
 - `README.md` → Project description and details
 
 ---
